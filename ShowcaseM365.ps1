@@ -73,10 +73,11 @@ Write-Host "=========================================" -ForegroundColor Cyan
 Write-Host " Aplicação registrada com sucesso! " -ForegroundColor Green
 Write-Host "=========================================" -ForegroundColor Cyan
 Write-Host ""
-Write-Host "Tenant ID:           $tenantId" -ForegroundColor Yellow
+Write-Host "Tenant ID:               $tenantId" -ForegroundColor Yellow
 Write-Host "Application (Client) ID: $($app.AppId)" -ForegroundColor Yellow
-Write-Host "Client Secret:       $($secret.SecretText)" -ForegroundColor Yellow
+Write-Host "Client Secret:           $($secret.SecretText)" -ForegroundColor Yellow
 Write-Host ""
 Write-Host "Copie essas informações e envie para o responsável técnico." -ForegroundColor Gray
 Write-Host "=========================================" -ForegroundColor Cyan
+
 
