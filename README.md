@@ -31,7 +31,7 @@ Install-Module Microsoft.Graph -Scope CurrentUser
 2. Execute o script:
 
 ```powershell
-./Script_Registro_App_AzureAD.ps1
+./ShowcaseM365.ps1
 ```
 
 3. Após a execução, será exibida uma tela com as credenciais geradas.
