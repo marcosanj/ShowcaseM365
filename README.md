@@ -1,5 +1,5 @@
 
-# Script de Registro de Aplicação no Azure AD via Microsoft Graph
+# Script de Registro de Aplicação "Showcase M365 - Dedalus" no EntraID via Microsoft Graph
 
 Este script PowerShell automatiza o processo de criação de uma aplicação registrada no Azure Active Directory (Azure AD), atribuição de permissões via Microsoft Graph, geração de segredo (client secret) com validade de 720 dias e exibição das credenciais essenciais ao final.
 
